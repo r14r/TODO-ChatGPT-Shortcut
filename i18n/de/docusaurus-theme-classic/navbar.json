@@ -8,11 +8,11 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.使用说明": {
-    "message": "Docs",
+    "message": "Dokumentation",
     "description": "Navbar item with label 使用说明"
   },
   "item.label.社区提示词": {
-    "message": "Community Prompts",
+    "message": "Community-Prompts",
     "description": "Navbar item with label 社区提示词"
   },
   "item.label.应用工具": {
@@ -32,7 +32,7 @@
     "description": "Navbar item with label Find on Product Hunt"
   },
   "item.label.反馈建议": {
-    "message": "Feedback",
+    "message": "Rückmeldung",
     "description": "Navbar item with label 反馈建议"
   },
   "item.label.脚本扩展": {
